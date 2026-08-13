@@ -1,0 +1,22 @@
+python_revision/
+│
+├── 01_basics.py
+├── 02_input_output.py
+├── 03_operators.py
+├── 04_if_else.py
+├── 05_loops.py
+├── 06_strings.py
+├── 07_lists.py
+├── 08_tuples.py
+├── 09_sets.py
+├── 10_dictionaries.py
+├── 11_functions.py
+├── 12_recursion.py
+├── 13_comprehensions.py
+├── 14_exception_handling.py
+├── 15_file_handling.py
+├── 16_oops.py
+├── 17_modules_packages.py
+├── 18_iterators_generators.py
+├── 19_decorators.py
+└── README.md
