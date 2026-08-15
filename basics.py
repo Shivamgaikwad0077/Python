@@ -114,3 +114,13 @@ a = b = 100
 print(a)
 print(b)
 # Python uses indentation instead of {}
+
+print("when we use to print('hello') \n " \
+"print('world ) then output will be like this \n " \
+"hello \n" \
+"world")
+print("____________________________________________")
+print("use of (end= ' ') ")
+print("when we use print output like this : hello world  {in single line } then ('hello' ,end= ' ')\n" \
+"print('world)\n" \
+"output :  hello world")
